@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+我开源的程序或软件第一目的是自用，如果你不喜欢请直接离开，不需要你的评价。
+
+如果你对我写的程序有建议或意见，欢迎提出，我们一起改进或修正。
+
 <!--
 **thep0y/thep0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
